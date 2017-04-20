@@ -1,0 +1,121 @@
+@media screen and (max-width: 1000px) {
+  #contact-left,
+  #contact-right {
+    width: 100%;
+    text-align: center;
+    background-position: left;
+    font-size: .85em; }
+
+  #contact-left {
+    margin-bottom: 2em; } }
+@media screen and (max-width: 850px) {
+  #nav-inner {
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    padding-top: 1em; }
+
+  .nav-side {
+    display: none; }
+
+  nav img {
+    margin: 0 auto; }
+
+  #hero-centerpiece {
+    background-size: auto 95%; }
+
+  #hero-centerpiece-inner h1 {
+    font-size: 3em; }
+  #hero-centerpiece-inner h2 {
+    font-size: 1.5em; }
+
+  #services {
+    padding-bottom: 0; }
+
+  #services-container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column; }
+
+  .services-cell {
+    width: 100%;
+    margin-bottom: 4em; }
+    .services-cell span {
+      text-align: left; }
+
+  #gallery-left,
+  #gallery-right {
+    width: 100%; }
+
+  #gallery-left {
+    margin-bottom: 2em; }
+
+  #location-left,
+  #location-right {
+    width: 100%; }
+
+  #location-left {
+    margin-bottom: 2em; } }
+@media screen and (max-width: 750px) {
+  .staff-cell {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-bottom: 0; }
+
+  .staff-cell-left {
+    width: 100%;
+    height: 18em;
+    margin-bottom: 2em; }
+
+  .staff-cell-left-background,
+  .staff-cell-left-background-overlay {
+    width: 100%; }
+
+  .staff-cell-left-overlay {
+    width: 90%;
+    left: 5%; }
+
+  .staff-cell-right {
+    width: 100%; }
+
+  #whoweare-inner {
+    padding: 3em 1.5em; } }
+@media screen and (max-width: 750px) {
+  #hero {
+    height: auto; }
+
+  #hero-nav,
+  #hero-centerpiece {
+    margin-bottom: 4em; }
+
+  #hero-footnote-button div span {
+    display: none; }
+
+  #calendar {
+    display: none; }
+
+  #calendar-mobile {
+    display: inline-block; } }
+@media screen and (max-width: 575px) {
+  #hero-centerpiece-inner h1 {
+    font-size: 3em; }
+    #hero-centerpiece-inner h1 br {
+      display: inline-block; }
+  #hero-centerpiece-inner h2 {
+    font-size: 1.5em; }
+
+  #gallery-right {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column; }
+
+  .gallery-cell {
+    width: 90%;
+    margin-left: 5%;
+    height: 12em;
+    margin-bottom: 1em; } }
+
+/*# sourceMappingURL=mobile.css.map */
