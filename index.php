@@ -153,6 +153,29 @@
 				</div><!-- staff cell left background -->
 				<div class="staff-cell-left-background-overlay">
 				</div><!-- staff cell left background -->
+				<div class="staff-cell-left-overlay staff-cell-2">
+				</div><!-- staff cell left overlay -->
+			</div><!--staff cell left -->
+			<div class="staff-cell-right">
+				<span>Kenneth</span><br />
+				<span>Fielding</span><br />
+
+				<em>Founder - Colour Specialist</em><br />
+
+				<p>"My mission is to give our guest individual style that reflects the skills of a well educated stylist."</p>
+
+				<p>Starting his career in 2000, Kenneth has continually refined his process, while fixing his eyes on the future of the beauty industry. His keen eye for detail and love of fashion is evident in his body of work. He showcases beautiful, soft, natural looks alongside bright and bold showing his creative versatility all the while maintaining the health and integrity of your hair. Kenneth has educated for such brands as Davines, Affinage and most recently J Beverly Hills.</p>
+
+				<a href="https://clients.mindbodyonline.com/classic/ws?studioid=345482&stype=-9" class="noline" target="_blank">Book with Kenneth Online</a>
+			</div><!-- staff cell right -->
+		</div><!-- staff cell -->
+
+		<div class="staff-cell">
+			<div class="staff-cell-left">
+				<div class="staff-cell-left-background staff-under-3">
+				</div><!-- staff cell left background -->
+				<div class="staff-cell-left-background-overlay">
+				</div><!-- staff cell left background -->
 				<div class="staff-cell-left-overlay staff-cell-3">
 				</div><!-- staff cell left overlay -->
 			</div><!--staff cell left -->
